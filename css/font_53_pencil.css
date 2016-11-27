@@ -1,0 +1,29 @@
+@font-face {
+	font-family: "Avenir";
+	src: url("../fonts/Avenir/avenirnextltpro-regular.woff") format("woff");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "Avenir";
+	src: url("../fonts/Avenir/avenirnextltpro-bold.woff") format("woff");
+	font-style: normal;
+	font-weight: bold;
+}
+
+@font-face {
+	font-family: "Avenir";
+	src: url("../fonts/Avenir/avenirnextmedium-oblique.woff") format("woff");
+	font-style: italic;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "Avenir";
+	src: url("../fonts/Avenir/avenirnextltpro-demi.woff") format("woff");
+	font-style: normal;
+	font-weight: 600;
+}
+
+
